@@ -28,7 +28,6 @@ const contentStyle = {
   boxSizing: 'border-box',
 };
 
-
 const App = () => {
   return (
     <Router>
