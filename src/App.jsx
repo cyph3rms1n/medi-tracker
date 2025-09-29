@@ -15,6 +15,7 @@ const containerStyle = {
   alignItems: 'center',
   background: '#f0f2f5',
 };
+
 const contentStyle = {
   background: '#fff',
   color: '#222',
